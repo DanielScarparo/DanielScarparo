@@ -1,18 +1,25 @@
 # Olá, eu sou o Daniel Alves Scarparo Silva 👋
 
-Sou um desenvolvedor focado em automação, análise de dados e desenvolvimento de software.
+Sou um desenvolvedor apaixonado por tecnologia, focado em desenvolvimento Full-Stack, automação de dados com Inteligência Artificial e na criação de soluções eficientes de software.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFTM Campus Ituiutaba.
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFTM Campus Ituiutaba.
+💻 Possuo conhecimentos sólidos utilizando Java, JavaScript, Python, React, Next.js, Node.js e MySQL.
+🔧 Além do desenvolvimento, tenho experiência com suporte técnico e manutenção de computadores.
+🚀 Busco sempre o aprendizado contínuo e novas oportunidades para contribuir com projetos na área de tecnologia.
 
-🚀 **Tecnologias e Conhecimentos:**
+---
+
+### 🚀 Tecnologias e Conhecimentos:
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Análise_de_Dados-007396?style=for-the-badge&logo=datacamp&logoColor=white" />
   <img src="https://img.shields.io/badge/Inteligência_Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
@@ -20,7 +27,7 @@ Sou um desenvolvedor focado em automação, análise de dados e desenvolvimento 
 
 📫 **Contato:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alves5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalves.scarparo@gmail.com)
 
 ---
