@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Alves Scarparo Silva 👋
+# Olá, eu sou o Daniel Scarparo  👋
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em desenvolvimento Full-Stack, automação de dados com Inteligência Artificial e na criação de soluções eficientes de software.
 
