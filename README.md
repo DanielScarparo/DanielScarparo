@@ -26,13 +26,12 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em desenvolvimento Full-S
 <br>
 
 📫 **Contato:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alves5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielalves.scarparo@gmail.com)
 
 
 ---
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielScarparo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielScarparo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
-</div>
+
